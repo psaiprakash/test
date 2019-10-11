@@ -33,6 +33,10 @@ class App extends Component {
   handleUpdate = (id) => {
     console.log(id)
   }
+
+  handletest = (value) => {
+    console.log(value);
+  }
   
   handleDelete = (id) => {
     console.log(id)
